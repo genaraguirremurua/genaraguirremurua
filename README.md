@@ -1,6 +1,6 @@
 <!-- CABECERA DINÁMICA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=TU%20GENAR AGUIRRE%20|%20CYBERSECURITY%20&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=TU%20GENARAGUIRRE%20|%20CYBERSECURITY%20&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 ###
