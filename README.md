@@ -1,13 +1,13 @@
 <!-- CABECERA DINÁMICA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=TU%20NOMBRE%20|%20DEVSECOPS%20&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=TU%20GENAR AGUIRRE%20|%20CYBERSECURITY%20&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 ###
 
 <!-- INTRODUCCIÓN Y ESTADÍSTICAS -->
 <p align="center">
-  <b>Enfocado en Ciberseguridad, Infraestructura como Código (IaC) y Arquitecturas Resilientes.</b>
+  <b>Enfocado en Ciberseguridad.</b>
 </p>
 
 <p align="center">
