@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genaraguirremurua&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide=issues,prs&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub Stats" height="140" />
+  <img src="https://streak-stats.demolab.com?user=genaraguirremurua&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -37,7 +37,8 @@
 * **[Cloud Cyber Range & SOC Automation](https://github.com/genaraguirremurua/cloud-cyber-range-ai-soc)**  
   *Despliegue automatizado de entorno de detección, pipelines de seguridad y métricas operativas (MTTD).*
 
-
+* **[Enterprise Homelab & Hardening](https://github.com/genaraguirremurua)** 
+  *Segmentación perimetral con OPNsense, virtualización en Proxmox VE y almacenamiento tolerante a fallos.*
 ---
 
 <!-- DESPLEGABLE TÉCNICO -->
