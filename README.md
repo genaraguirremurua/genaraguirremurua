@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genaraguirremurua&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genaraguirremurua&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=genaraguirremurua&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&cache_seconds=1800" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=genaraguirremurua&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -20,9 +20,14 @@
 <!-- STACK TECNOLÓGICO -->
 <div align="center">
   <h3>Stack Técnico & Herramientas</h3>
+  <!-- Iconos principales con Azure incluido -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,proxmox,elastic,linux,terraform,docker,bash,py,java,git,githubactions,grafana,prometheus&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=azure,linux,terraform,docker,bash,py,java,git,githubactions,grafana,prometheus&theme=dark" />
   </a>
+  <br/><br/>
+  <!-- Insignias dedicadas para herramientas no soportadas por SkillIcons -->
+  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="28" />
 </div>
 
 ---
