@@ -7,11 +7,8 @@
 
 <!-- INTRODUCCIÓN Y ESTADÍSTICAS -->
 <p align="center">
-  <b>Enfocado en Ciberseguridad.</b>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=genaraguirremurua&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <b>Ciberseguridad & Infraestructura</b><br/>
+  Construyendo proyectos prácticos y explorando la seguridad defensiva.
 </p>
 
 ---
@@ -37,7 +34,7 @@
 * **[Cloud Cyber Range & SOC Automation](https://github.com/genaraguirremurua/cloud-cyber-range-ai-soc)**  
   *Despliegue automatizado de entorno de detección, pipelines de seguridad y métricas operativas (MTTD).*
 
-* **[Enterprise Homelab & Hardening](https://github.com/genaraguirremurua)** 
+* **[Enterprise Homelab & Hardening](https://github.com/genaraguirremurua)**
   *Segmentación perimetral con OPNsense, virtualización en Proxmox VE y almacenamiento tolerante a fallos.*
 ---
 
